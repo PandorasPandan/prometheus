@@ -6,7 +6,7 @@ import cv2
 import time
 
 # loading the stored model from file
-# model=load_model(r'Fire-64x64-color-v7-soft.h5')
+# model=load_model(r'Fsire-64x64-color-v7-soft.h5')
 # model=load_model(r'take2.h5')
 
 # works but suspicious with no fire - more data needed ?

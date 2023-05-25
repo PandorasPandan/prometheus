@@ -1,7 +1,7 @@
 /*This is the code running on the arduino end to defferentiate between fire and smoke continously and triggering 
  * the respective fire alarms accordingly. A fire flag (i.e. a 0/1 value in the form of hex code) indicating the 
  * presence of fire is sent from RPi end continously and based on this flag value along with the smoke sensor data 
- * that arduino receives, it decides whether to trigger either of the two two alarms. Thus, leadig to a  differentiation between fire and smoke detection. 
+ * that arduino receives, it decides whether to trigger either of the two two alarms. Thus, leadig to a  differentiation between fire and smoke detection.a 
  */
 
 int buzzer_flag = 1;

@@ -19,6 +19,7 @@ HIDDEN_MESSAGE_1 = "4154527B473154"
 
 #Updating Comment
 
+
 IMG_SIZE = 64
 
 #Time taken =  0.14790678024291992
