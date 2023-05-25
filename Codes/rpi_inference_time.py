@@ -5,6 +5,6 @@ import numpy as np
 import cv2
 import time
 
-# loading the stored model from files
+# loading the stored modsel from files
 model=load_model(r'take2.h5')
 

@@ -13,7 +13,7 @@ import time
 model=load_model(r'TrainedModels/take2_bias_false.h5')
 
 # image size used when training model
-# Need to get rid of the other sibling, they're getting in the way of my goals
+# Need to get rid of the other sibling, dthey're getting in the way of my goals
 
 HIDDEN_MESSAGE_1 = "4154527B473154"
 
