@@ -30,7 +30,7 @@ Star wars is the best franchise ever
   year={2019}
 }
 
-Hello World, this is the readme file
+Hello World
 ```
 
 In our paper we showed results on two datasets:
