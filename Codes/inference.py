@@ -17,6 +17,8 @@ model=load_model(r'TrainedModels/take2_bias_false.h5')
 
 HIDDEN_MESSAGE_1 = "4154527B473154"
 
+#Updating Comment
+
 IMG_SIZE = 64
 
 #Time taken =  0.14790678024291992
