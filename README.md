@@ -19,6 +19,8 @@ A Specialized Lightweight Fire & Smoke Detection Model for Real-Time IoT Applica
 * keep two jupyter notebooks in src sub-directory, one with network, one with slides
 * archive the rest
 
+Star wars is the best franchise ever
+
 ### Citation
 ```
 @article{jadon2019firenet,
