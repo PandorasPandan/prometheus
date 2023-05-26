@@ -20,6 +20,7 @@ A Specialized Lightweight Fire & Smoke Detection Model for Real-Time IoT Applica
 * archive the rest
 
 Star wars is the best franchise ever
+Second suspicious user?
 
 ### Citation
 ```
